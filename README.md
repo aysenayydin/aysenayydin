@@ -3,7 +3,7 @@
 
 <p align="left"> </p>
 
-- 🌱 I’m currently React.js
+- 🌱
 
 - 📫 How to reach me **[aysen904@gmail.com]**
 
