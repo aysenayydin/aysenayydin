@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayşen Aydın</h1>
-<h3 align="center"> I am a Jr. Frontend Developer from Istanbul, and I'm dedicated to my work.</h3>
+<h3 align="center"> I am a  Frontend Developer from Istanbul, and I'm dedicated to my work.</h3>
 
 <p align="left"> </p>
 
